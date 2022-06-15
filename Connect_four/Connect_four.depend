@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652722836 source:c:\users\murph\desktop\learning\code\c\codeblocks\connect_four\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

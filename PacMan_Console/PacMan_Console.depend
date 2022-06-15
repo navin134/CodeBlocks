@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652398913 source:c:\users\murph\desktop\learning\code\c\codeblocks\pacman_console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
